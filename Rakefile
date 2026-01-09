@@ -59,7 +59,7 @@ spec = Gem::Specification.new do |s|
   s.authors = ["David Lutterkort", "Vit Ondruch"]
   s.email = "gem2rpm-devel@rubyforge.org"
   s.homepage = "https://github.com/fedora-ruby/gem2rpm"
-  s.license = "GPL-2.0+"
+  s.license = "GPL-2.0-or-later"
 
   #### Signing properties.
 
